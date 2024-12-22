@@ -1,4 +1,3 @@
-# tests/test_git_deps.py
 import pytest
 import os
 import shutil
